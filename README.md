@@ -2,6 +2,10 @@
 
 This SOFA scene places a seven-joint Panda above a deformable liver phantom. A teal hub holds the needle in the gripper. A green marker identifies the target on the liver surface and follows that point as the tissue moves.
 
+| Initial pose | Trained policy replay |
+| --- | --- |
+| ![Panda holding the needle above the liver phantom](docs/images/panda-scene.png) | ![Needle tip reaching the moving liver surface target](docs/images/target-contact.png) |
+
 ## Run
 
 From the repository root on Ubuntu 24.04 x86-64:
