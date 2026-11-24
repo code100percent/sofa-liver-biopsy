@@ -1,0 +1,5 @@
+.sofa/
+__pycache__/
+runs/*
+!runs/touch.npz
+!runs/custom.npz
